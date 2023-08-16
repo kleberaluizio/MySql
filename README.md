@@ -1,4 +1,4 @@
-# MySql
+# MySQL
 Curso MySQL - Curso em video - Gustavo Guanabara
 
 - O curso me proporcinou compreender os conceitos básicos de banco de dados e o papel do MySQL no armazenamento e recuperação de informações. 
